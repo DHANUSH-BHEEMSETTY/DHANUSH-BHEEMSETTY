@@ -48,8 +48,10 @@
 
 **Java Developer (Intern) — SysIntelli Software and Services Pvt Ltd**
 *May 2025 – Aug 2025*
-* Maintained object-oriented Java applications.
-* Debugged and optimized code to improve overall backend performance.
+* Developed and maintained robust, object-oriented Java applications within a fast-paced enterprise environment.
+* Proactively identified bottlenecks and debugged complex issues, leading to measurable improvements in backend performance and stability.
+* Collaborated closely with senior engineering teams to optimize the existing codebase, enforce best practices, and reduce technical debt.
+* Gained hands-on experience in the full software development lifecycle, code reviews, and production-level debugging.
 
 <br>
 <br>
