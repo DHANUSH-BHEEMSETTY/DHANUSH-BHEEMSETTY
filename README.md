@@ -1,9 +1,12 @@
 <div align="center">
   
+<img src="profile_photo.jpg" alt="Dhanush Bheemisetty" width="150" style="border-radius:50%; border: 4px solid #fff; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);"/>
+<br><br>
+
 # Dhanush Bheemisetty
 **Full-Stack Developer | AI & ML Enthusiast**
 
-*Building intelligent full-stack applications and exploring cloud automation.*
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&pause=1000&color=2E8B57&center=true&vCenter=true&width=500&lines=Building+intelligent+full-stack+applications.;Exploring+cloud-native+backend+architectures.;Actively+seeking+SDE,+Full-Stack,+and+AI+roles!" alt="Typing SVG" /></a>
 
 <br>
 
@@ -18,14 +21,24 @@
 
 * **Background:** Computer Science undergraduate at VIT-AP University specializing in AI & ML.
 * **Engineering Focus:** Building full-stack web applications and integrating intelligent systems into real-world products.
-* **Current Interests:** Real-time intelligent systems, scalable backend architectures, and cloud-native DevOps.
+* **Current Status:** 🚀 **Actively applying for SDE, Full-Stack, and AI/ML roles.** Open to challenging opportunities!
 
 <br>
 <br>
 
 ## 🛠️ Core Technologies
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" /> <img src="https://img.shields.io/badge/YOLOv8-FF0000?style=flat-square&logo=yolo&logoColor=white" alt="YOLO" /> <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=google&logoColor=white" alt="Gemini" /> 
+**Languages**<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+
+**Frontend**<br>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+
+**Backend, Databases & Core CS**<br>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" /> <img src="https://img.shields.io/badge/DBMS-005571?style=flat-square&logo=databricks&logoColor=white" alt="DBMS" /> <img src="https://img.shields.io/badge/Operating_Systems-0078D6?style=flat-square&logo=windows&logoColor=white" alt="OS" /> <img src="https://img.shields.io/badge/Computer_Networks-2C8EBB?style=flat-square&logo=cisco&logoColor=white" alt="CN" />
+
+**AI & Cloud**<br>
+<img src="https://img.shields.io/badge/YOLOv8-FF0000?style=flat-square&logo=yolo&logoColor=white" alt="YOLOv8" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" /> <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=google&logoColor=white" alt="Gemini" /> 
 
 <br>
 <br>
