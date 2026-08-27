@@ -116,8 +116,9 @@
 
 ## 🏆 Achievements
 
-* 🥇 **Winner – VLaunch Pad 2025** | *Recognized for innovative startup idea "HoverCharge"*
-* 📜 **MERN Stack Certification** | *Face Prep*
+* 🥇 **First Place Winner – VLaunch Pad 2025** 
+  * Successfully pitched **HoverCharge**, an AI-driven on-demand mobile EV charging startup.
+  * Recognized for combining modern technical architecture with a scalable business model to solve critical real-world EV infrastructure bottlenecks.
 
 <br>
 <br>
