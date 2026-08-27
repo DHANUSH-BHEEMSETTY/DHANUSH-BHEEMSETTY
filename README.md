@@ -56,7 +56,7 @@
 ## 📂 Featured Projects
 
 ### 🚀 Smart Resume Screener
-> Automated, explainable candidate ranking using structured LLM outputs.
+> Automated, explainable candidate ranking using structured LLM outputs. **[🔗 Source Code](https://github.com/DHANUSH-BHEEMSETTY/RESUME_SCREENER)**
 
 * **The Problem:** Manual screening is slow, subjective, and inconsistent.
 * **The Solution:** A full-stack pipeline that extracts structured candidate data from PDFs using Google Gemini 1.5 Flash. It calculates deterministic match scores (preventing LLM hallucinations) and serves explainable results via a React dashboard.
@@ -78,7 +78,7 @@
 <br>
 
 ### 🚀 Real-Time Restricted Area Monitoring
-> Ultra-low latency object detection and cloud logging pipeline.
+> Ultra-low latency object detection and cloud logging pipeline. **[🔗 Source Code](https://github.com/DHANUSH-BHEEMSETTY/Real_Time_Restricted_Area_Monitoring_System)**
 
 * **The Problem:** Physical security lacks real-time, globally accessible cloud alerting without constant refreshing.
 * **The Solution:** Local Python clients run heavy YOLO inference on webcams and push structured logs to a Supabase database. A FastAPI dashboard consumes this via WebSockets for instant, live-streaming monitoring.
