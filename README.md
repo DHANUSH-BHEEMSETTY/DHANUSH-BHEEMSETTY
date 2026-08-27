@@ -21,6 +21,7 @@
 
 * **Background:** Computer Science undergraduate at VIT-AP University specializing in AI & ML.
 * **Engineering Focus:** Building full-stack web applications and integrating intelligent systems into real-world products.
+* **Currently Building:** A real-time computer vision dashboard for Smart Building Safety Monitoring.
 * **Current Status:** 🚀 **Actively applying for SDE, Full-Stack, and AI/ML roles.** Open to challenging opportunities!
 
 <br>
@@ -66,7 +67,7 @@
 
 <br>
 
-### 🚀 Smart Building Safety Monitoring
+### 🚀 Smart Building Safety Monitoring (🚧 Work in Progress)
 > Real-time computer vision dashboard for hazard detection and dynamic evacuation.
 
 * **The Problem:** Current safety systems operate in silos; fire alarms don't calculate safe evacuation paths.
