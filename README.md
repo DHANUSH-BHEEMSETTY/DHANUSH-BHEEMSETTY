@@ -89,7 +89,7 @@
 <br>
 
 ### 🚀 HoverCharge
-> AI-driven platform for on-demand mobile EV charging discovery.
+> AI-driven platform for on-demand mobile EV charging discovery. **[🔗 Live Demo](https://hovercharge-react.onrender.com/)**
 
 * **The Problem:** EV adoption is bottlenecked by range anxiety and sparse infrastructure.
 * **The Solution:** A high-performance React landing page for an on-demand mobile charging startup. Features a brutalist, high-contrast UI with parallax effects, integrating Gemini API for dynamic user queries and Chart.js for visualizations.
@@ -100,7 +100,7 @@
 <br>
 
 ### 🚀 Legacy Wallet
-> Secure cloud-native digital inheritance platform.
+> Secure cloud-native digital inheritance platform. **[🔗 Live Demo](https://legacy-wallet-yjyw.onrender.com/)**
 
 * **The Problem:** Managing and transferring digital/physical assets for inheritance is complex and highly privacy-sensitive.
 * **The Solution:** A digital inheritance platform allowing asset allocation through text, audio, video, and AI-assisted wills. Leverages strict Postgres Row Level Security (RLS) to guarantee data privacy.
