@@ -116,7 +116,7 @@
 
 ## 🏆 Achievements
 
-* 🥇 **First Place Winner – VLaunch Pad 2025** 
+* 🥇 **First Place Winner – VLaunch Pad 2025** **[📜 View Appreciation Letter](https://drive.google.com/file/d/1wEuhZrC7hCYjdq86LnA1EEZkBDLjqNnJ/view)**
   * Successfully pitched **HoverCharge**, an AI-driven on-demand mobile EV charging startup.
   * Recognized for combining modern technical architecture with a scalable business model to solve critical real-world EV infrastructure bottlenecks.
 
